@@ -19,7 +19,8 @@ Code is super easy in markdown, which you can easily do inline `(require net/url
 (require net/url)
 ```
 
-### My Library: (library name here)
+### My Library: rsound
+
 Write what you did!
 Remember that this report must include:
  
@@ -31,6 +32,18 @@ Remember that this report must include:
 The narrative itself should be no longer than 350 words. Yes, you can add more files and link or refer to them. This is github, handling files is awesome and easy!
 
 Ask questions publicly in the Piazza group.
+
+For the second part of this project, I elected to play with an audio library. Since I originally used a GUI library,
+I took that code from that an altered it to suit my needs for this library. So what I did was create a few different 
+buttons in the GUI window, and figured that I would alter the code so that instead of showing a message in the 
+window, I would make each button produce a tone. This was a lot easier than I expected, and all I did was replace the
+code to show a message with the relatively simple code to play a specific note. I did this to create three buttons
+that play three different notes, one that plays all three notes simultaneously, and made the close button emit a 
+"ding" noise when pressed.
+
+
+
+
 
 ### How to Do and Submit this assignment
 
