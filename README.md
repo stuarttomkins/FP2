@@ -11,6 +11,8 @@ the code to show a message with the relatively simple code to play a specific no
 buttons that play three different notes, one that plays all three notes simultaneously, and made the close button
 emit a "ding" noise when pressed.
 
+![alt text](https://github.com/stuarttomkins/FP2/blob/master/window.png "Window Screenshot")
+
 ```
 (require rsound)
 (require racket/gui/base)
